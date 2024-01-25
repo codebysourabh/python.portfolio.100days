@@ -1,3 +1,9 @@
+# Day 81
+
+## Simple python script to convert text to morse code.
+
+![script image](text2morse.png)
+
 for reference of morse codes dictionary:
  - https://www.sciencegateway.org/gr/morse.htm
  - https://students.cs.ucl.ac.uk/schoolslab/projects/PY2/introduction.html
